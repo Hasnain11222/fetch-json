@@ -1,0 +1,57 @@
+#name{
+    text-align: center;
+    position: relative;
+    top: 550px;
+    color: rgb(30, 211, 13);
+}
+
+
+#location{
+    text-align: center;
+    position: relative;
+    top: 530px;
+    color: rgb(30, 211, 13);
+}
+
+#login{
+    text-align: center;
+    position: relative;
+    top: 500px;
+    color: rgb(30, 211, 13);
+}
+
+#followers{
+    text-align: center;
+    position: relative;
+    top: 820px;
+    color: rgb(30, 211, 13); }
+
+    #bio{
+        text-align: center;
+        position: relative;
+        top: 810px;
+        color: rgb(30, 211, 13); }
+    
+
+.pic{
+    text-align: center;
+margin-top: -220px;
+
+
+}
+
+
+.fi{
+    text-align: center;
+    position: relative;
+    top: 20px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background: url(https://img.wallpapersafari.com/desktop/1920/1080/9/74/qxnL3S.jpg);
+}
